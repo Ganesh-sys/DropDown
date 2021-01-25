@@ -15,4 +15,4 @@ class Course(models.Model):
 		return self.name
 
 		
-class GaneshModel(models.Model)
+#class GaneshModel(models.Model)
